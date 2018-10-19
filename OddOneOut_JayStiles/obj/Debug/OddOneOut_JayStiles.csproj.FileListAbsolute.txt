@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\bin\Debug\OddOneOut_JayStiles.exe.config
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\bin\Debug\OddOneOut_JayStiles.exe
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\bin\Debug\OddOneOut_JayStiles.pdb
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\obj\Debug\OddOneOut_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\obj\Debug\OddOneOut_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\obj\Debug\OddOneOut_JayStiles.exe
+C:\Users\jstiles\source\repos\OddOneOut_JayStiles\OddOneOut_JayStiles\obj\Debug\OddOneOut_JayStiles.pdb
